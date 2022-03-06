@@ -1,0 +1,4 @@
+github.com/bschlaman/b-utils v0.0.0-20220304204907-cc962beb9419 h1:M3itBDu8iM7x82pim3V2Hfe9tMlMSiQjHMJaRRK5GoI=
+github.com/bschlaman/b-utils v0.0.0-20220304204907-cc962beb9419/go.mod h1:x5odeB06r6dzhrBVv84ZPCTqz4RRS/NnmMrEMm6wQXk=
+github.com/bxcodec/faker/v3 v3.7.0 h1:qWAFFwcyVS0ukF0UoJju1wBLO0cuPQ7JdVBPggM8kNo=
+github.com/bxcodec/faker/v3 v3.7.0/go.mod h1:gF31YgnMSMKgkvl+fyEo1xuSMbEuieyqfeslGYFjneM=
